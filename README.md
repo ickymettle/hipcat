@@ -13,8 +13,6 @@ To build you'll need to:
 
     go get github.com/ickymettle/hipchat
 
-To pull in the dependency.
-
 If you're using gopack the gopack.config will pull in the correct deps
 
 ## usage
