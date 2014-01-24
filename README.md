@@ -5,7 +5,7 @@ to hipchat via the v2 API
 
 ## building
 
-The only dependency is github.com/ickymettle/hipchat which is a butchered up fork
+The only dependency is https://github.com/ickymettle/hipchat which is a butchered up fork
 of @andybons https://github.com/andybons/hipchat with some in-progress patches 
 from a fork by @akshayjshah that began implementing the v2 API
 
