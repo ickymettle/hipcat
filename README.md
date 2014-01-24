@@ -12,6 +12,7 @@ from a fork by @akshayjshah that began implementing the v2 API
 To build you'll need to:
 
     go get github.com/ickymettle/hipchat
+    go build
 
 If you're using gopack the gopack.config will pull in the correct deps
 
